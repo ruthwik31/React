@@ -1,0 +1,22 @@
+{
+  "name": "react-vscode",
+  "version": "1.0.0",
+  "description": "This is react by ruthwik",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthwik31/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "ruthwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthwik31/React/issues"
+  },
+  "homepage": "https://github.com/ruthwik31/React#readme"
+}
